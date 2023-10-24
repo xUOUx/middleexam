@@ -3,7 +3,6 @@
 ## 前置作業
 •請準備一個可以使用google colab 的帳號   
 •請下載我們提供的：辨識手寫數字.ipynb  
-•再準備一張有車牌的的清晰照片  
 ![image](https://github.com/xUOUx/middleexam/blob/main/num.jpg)
 
 ## 實作方法   
