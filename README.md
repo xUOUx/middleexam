@@ -1,5 +1,8 @@
 •南華大學跨領域-人工智慧期中報告   
 •11024241陳俊佑   
+
+https://colab.research.google.com/drive/1wHDh3gbTID6wMHFimLmateONyXEb-Qv7?usp=sharing
+
 ## 前置作業
 •請準備一個可以使用google colab 的帳號   
 •請下載我們提供的：辨識手寫數字.ipynb   或自己畫出數字
