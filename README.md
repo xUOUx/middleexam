@@ -1,5 +1,5 @@
 •南華大學跨領域-人工智慧期中報告   
-•11024241陳俊佑  11024238賴昱誠 11024232 林政彥 
+•11024241陳俊佑  11024238賴昱誠 11024232 林政彥
 
 https://colab.research.google.com/drive/1wHDh3gbTID6wMHFimLmateONyXEb-Qv7?usp=sharing
 
